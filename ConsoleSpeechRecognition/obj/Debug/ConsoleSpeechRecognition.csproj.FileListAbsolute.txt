@@ -1,0 +1,9 @@
+C:\Users\sebcf\source\repos\ConsoleSpeechRecognition\ConsoleSpeechRecognition\bin\Debug\ConsoleSpeechRecognition.exe.config
+C:\Users\sebcf\source\repos\ConsoleSpeechRecognition\ConsoleSpeechRecognition\bin\Debug\ConsoleSpeechRecognition.exe
+C:\Users\sebcf\source\repos\ConsoleSpeechRecognition\ConsoleSpeechRecognition\bin\Debug\ConsoleSpeechRecognition.pdb
+C:\Users\sebcf\source\repos\ConsoleSpeechRecognition\ConsoleSpeechRecognition\bin\Debug\Microsoft.Speech.dll
+C:\Users\sebcf\source\repos\ConsoleSpeechRecognition\ConsoleSpeechRecognition\obj\Debug\ConsoleSpeechRecognition.csprojAssemblyReference.cache
+C:\Users\sebcf\source\repos\ConsoleSpeechRecognition\ConsoleSpeechRecognition\obj\Debug\ConsoleSpeechRecognition.csproj.CoreCompileInputs.cache
+C:\Users\sebcf\source\repos\ConsoleSpeechRecognition\ConsoleSpeechRecognition\obj\Debug\ConsoleSpeechRecognition.csproj.CopyComplete
+C:\Users\sebcf\source\repos\ConsoleSpeechRecognition\ConsoleSpeechRecognition\obj\Debug\ConsoleSpeechRecognition.exe
+C:\Users\sebcf\source\repos\ConsoleSpeechRecognition\ConsoleSpeechRecognition\obj\Debug\ConsoleSpeechRecognition.pdb
